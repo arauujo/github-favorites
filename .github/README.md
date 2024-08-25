@@ -1,4 +1,4 @@
-
+![git-favorites](https://github.com/user-attachments/assets/39dca365-107f-4d52-b7ff-5ed99d3cc43a)
 ## 🖥️ Projeto
 
 O Github Favorites é um projeto desenvolvido em aula durante o Stage 06 da trilha Explorer da Rocketseat. Esse projeto permite aos usuários buscar perfis de usuários do Github e salvar seus favoritos em uma lista que é armazenada localmente no navegador.
